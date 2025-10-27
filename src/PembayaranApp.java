@@ -6,7 +6,6 @@ public class PembayaranApp {
     public static final int HARGA = 8500000;
     public static final double PPN = 0.10;
 
-
     public static void main(String[] args) {
         Pembeli pembeli = new Pembeli();
         pembeli.setNama("Ria");
