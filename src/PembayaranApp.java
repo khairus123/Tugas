@@ -10,6 +10,7 @@ public class PembayaranApp {
         pembeli.setHarga(HARGA);
         pembeli.setDiskon(DISKON);
 
+
         double total = hitungTotal(pembeli);
         System.out.println("=== Struk Pembelian ===");
         System.out.println("Nama Pembeli : " + pembeli.getNama());
