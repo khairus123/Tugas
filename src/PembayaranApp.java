@@ -5,7 +5,7 @@ public class PembayaranApp {
 
     public static void main(String[] args) {
         Pembeli pembeli = new Pembeli();
-        pembeli.setNama("Rina");
+        pembeli.setNama("Ria");
         pembeli.setBarang("notebook");
         pembeli.setHarga(HARGA);
         pembeli.setDiskon(DISKON);
