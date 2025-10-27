@@ -1,5 +1,5 @@
-public class PembayaranApp {
 
+public class PembayaranApp {
     public static final double DISKON = 0.1;
     public static final int HARGA = 8500000;
 
